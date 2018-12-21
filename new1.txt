@@ -1,2 +1,3 @@
 new line
 adding this from feture1 branch
+adding this from feature1 branch after merge.
